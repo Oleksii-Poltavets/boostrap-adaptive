@@ -1,0 +1,75 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header .navbar-brand {
+  color: #111;
+  font-weight: 500;
+}
+
+.header .btn {
+  background-color: #525252;
+  color: #fff;
+}
+
+.header .navbar .navbar-nav .nav-link {
+  font-size: 0.7rem;
+  color: #111;
+}
+
+.promo .promo__btn {
+  background-color: Coral;
+}
+
+.games {
+  background-color: #343A40;
+  color: #fff;
+}
+
+.games .card {
+  background-color: transparent;
+}
+
+.games__title {
+  font-weight: 400;
+  font-size: 1.9rem;
+}
+
+.card .card__title {
+  font-size: 0.9rem;
+}
+
+.card .card-text {
+  font-size: 0.8rem;
+}
+
+.games-second {
+  color: #111;
+  background-color: #F8F9FA;
+}
+
+.games-second .card {
+  background-color: transparent;
+}
+
+.footer {
+  background-color: #343A40;
+  color: #fff;
+}
+
+.footer__title {
+  font-size: 0.9rem;
+}
+
+.footer__descr {
+  font-size: 0.7rem;
+}
+
+.footer .form-group .btn {
+  background-color: coral;
+  color: #fff;
+}
+
+.footer .footer__span {
+  font-size: 0.6rem;
+}
